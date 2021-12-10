@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "177765771831",
+    "firebase_url": "https://singingfirebase-default-rtdb.firebaseio.com",
+    "project_id": "singingfirebase",
+    "storage_bucket": "singingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177765771831:android:51fee14e120bb5312a6db2",
+        "android_client_info": {
+          "package_name": "com.vohidov.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177765771831-eolkb3qkl3ha7a8vqoet0thgh651isqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vohidov.chatapp",
+            "certificate_hash": "99e1c26b2aa26e42487bc534cd39c3812ae7ef64"
+          }
+        },
+        {
+          "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvpOzVZMzbQ4mH5YQenSNKmObPJeZjyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177765771831:android:2f177ea9643eb4952a6db2",
+        "android_client_info": {
+          "package_name": "com.vohidov.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177765771831-ucbapc61jstsk09a9fojvraassh3b4k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vohidov.firebase",
+            "certificate_hash": "99e1c26b2aa26e42487bc534cd39c3812ae7ef64"
+          }
+        },
+        {
+          "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvpOzVZMzbQ4mH5YQenSNKmObPJeZjyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177765771831:android:cd05419682dadc562a6db2",
+        "android_client_info": {
+          "package_name": "com.vohidov.firebasedatabasecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvpOzVZMzbQ4mH5YQenSNKmObPJeZjyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177765771831-ai9p8h838vecp58muudd1j5se92fp0dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
