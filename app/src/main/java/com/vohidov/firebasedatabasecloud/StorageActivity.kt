@@ -31,11 +31,18 @@ class StorageActivity : AppCompatActivity() {
         reference = firebaseStorage.getReference("Photo")
 
         binding.imageView.setOnClickListener {
-            getImageContent.launch("image/*")
+            getContent.launch("image/*")
+            // launch("image/*") help us to show in phone storage only a image files
+        }
+
+        binding.videoView.setOnClickListener {
+            getContent.launch("video/*")
+
+            // launch("video/*") help us to show in phone storage only a video files
         }
     }
 
-    private var getImageContent = registerForActivityResult(ActivityResultContracts.GetContent()){ uri->
+    private var getContent = registerForActivityResult(ActivityResultContracts.GetContent()){ uri->
         binding.imageView.setImageURI(uri)
 
         val m = System.currentTimeMillis()
